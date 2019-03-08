@@ -1,0 +1,12 @@
+name: choosemodel
+title: choosemodel
+username:
+account: kumar-navya
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 775777
+bundleId: 1924884
+url: https://kumar-navya.shinyapps.io/choosemodel/
+when: 1552041742.60345
+asMultiple: FALSE
+asStatic: FALSE
